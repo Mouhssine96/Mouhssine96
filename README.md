@@ -13,10 +13,9 @@ photonics.
 
 | Project | What it shows |
 |---|---|
-| [photoluminescent-sign-visibility](https://github.com/Mouhssine96/photoluminescent-sign-visibility) | Master's internship at Cerema with CETU: hyperspectral measurement, Monte Carlo radiative transfer simulation in smoke, visibility model; full report |
-| [faraday-rotator-tunable](https://github.com/Mouhssine96/faraday-rotator-tunable) | Fibre bench at 1550 nm, comparison of three ways of tuning a Faraday rotator with a magnetic field, coil sizing in Python |
-| [portfolio](https://github.com/Mouhssine96/portfolio) | My project portfolio in French and English (PDF and LaTeX sources) |
-| [latex-portfolio-guide](https://github.com/Mouhssine96/latex-portfolio-guide) | A guide and modular LaTeX template for building a scientific portfolio |
+| [Photoluminescent-sign-visibility](https://github.com/Mouhssine96/photoluminescent-sign-visibility) | Master's internship at Cerema with CETU: hyperspectral measurement, Monte Carlo radiative transfer simulation in smoke, visibility model; full report |
+| [Faraday-rotator-tunable](https://github.com/Mouhssine96/faraday-rotator-tunable) | Fibre bench at 1550 nm, comparison of three ways of tuning a Faraday rotator with a magnetic field, coil sizing in Python |
+| [Portfolio](https://github.com/Mouhssine96/portfolio) | My project portfolio in French and English (PDF and LaTeX sources) |
 
 ## Tools
 
